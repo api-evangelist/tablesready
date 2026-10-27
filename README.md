@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TablesReady is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tablesready.com/
+TablesReady provides smart waitlist management and scheduling software for restaurants, retail, hospitality, and other service businesses. Their platform lets customers join virtual queues, receive real‑time updates via SMS or app notifications, and helps staff optimize seating and appointment flow. Features include table management, guest messaging, appointment reservations, queue analytics, and integrations with POS systems like Square. The solution aims to reduce wait times, improve customer experience, and increase operational efficiency across multiple industries.
+
+**Areas:** Company · Waitlist · Scheduling · Restaurant · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tablesready.com/)
+- [Documentation](https://www.tablesready.com/)
+- [Getting started](https://www.tablesready.com/self-guided-demo)
+- [Pricing](https://www.tablesready.com/pricing)
+- [Support](https://support.tablesready.com/)
+- [Blog](https://www.tablesready.com/blog)
+- [Security](https://www.tablesready.com/security/)
+- [Compliance](https://www.tablesready.com/security/)
+- [Terms of service](https://www.tablesready.com/terms)
+- [Privacy policy](https://www.tablesready.com/privacy)
+- [GitHub](https://github.com/tablesready)
+- [Status](https://status.tablesready.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tablesready/](https://apis.io/providers/tablesready/).
